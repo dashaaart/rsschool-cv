@@ -1,0 +1,40 @@
+:root {
+    font-family: Roboto, sans-serif;
+    font-size: 15px;
+    color: black;
+    line-height: 18px;    
+    background-color: rgba(252, 246, 212, 0.918);
+}
+
+body {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1024px;
+    background-color: rgba(109, 40, 40, 0.322);
+    
+}
+
+.header {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+}
+
+h1 {
+    margin: 150px 500px 0 0;
+    
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+img {
+    margin: 5px;
+}
+
+.section {
+    background-color: rgba(182, 230, 142, 0.63);
+    padding: 10px;
+    margin: 5px;
+}
