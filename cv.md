@@ -24,9 +24,9 @@ I'm still learning. Everything is ahead
 Belarusian State Economic University, faculty of Finance and Banking, specialty - economist
 
 ## Self education:
-SkillUp front-end development courses
-View training videos on YouTubevideo workshops by Glo-Academy
+SkillUp front-end development courses\
+View training videos on YouTube
 
 ## English
-I learn English on my own through videos and books. I also took courses on the Dragunkin method.
-According to the results of the EPAM Training test I have level A2 
+I learn English on my own through videos and books. I also took courses on the Dragunkin method.\
+According to the results of the EPAM Training test I have level *A2* 
